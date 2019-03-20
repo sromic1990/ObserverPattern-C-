@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/souravchatterjee/CLionProjects/ObserverPattern/ASubject.h
+Shop.h
+/Users/souravchatterjee/CLionProjects/ObserverPattern/Shop.h
+vector
+-
+list
+-
+
+/Users/souravchatterjee/CLionProjects/ObserverPattern/DummyProduct.cpp
+DummyProduct.h
+/Users/souravchatterjee/CLionProjects/ObserverPattern/DummyProduct.h
+
+/Users/souravchatterjee/CLionProjects/ObserverPattern/DummyProduct.h
+ASubject.h
+/Users/souravchatterjee/CLionProjects/ObserverPattern/ASubject.h
+
+/Users/souravchatterjee/CLionProjects/ObserverPattern/IObserver.h
+
+/Users/souravchatterjee/CLionProjects/ObserverPattern/Shop.h
+iostream
+-
+string
+-
+IObserver.h
+/Users/souravchatterjee/CLionProjects/ObserverPattern/IObserver.h
+
+/Users/souravchatterjee/CLionProjects/ObserverPattern/main.cpp
+iostream
+-
+DummyProduct.h
+/Users/souravchatterjee/CLionProjects/ObserverPattern/DummyProduct.h
+
